@@ -90,7 +90,7 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "CohenQU"
   codepen          :
   dribbble         :
   flickr           :
@@ -99,7 +99,7 @@ author:
   github           : "cohenqu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
