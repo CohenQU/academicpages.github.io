@@ -15,3 +15,5 @@ redirect_from:
   * [Hedwig's Theme](https://www.youtube.com/watch?v=ki8hN7AWsZ4), even though I am a science student, I do believe there is magic in this world.
 
 * I also like movies and musicals. My favorites are the Avengers and Hamilton.
+
+* Film making is also my hobby, but I am not professional.
