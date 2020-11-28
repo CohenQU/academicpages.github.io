@@ -18,7 +18,7 @@ Activity
 ======
 * UG Summer Research Internship 2019
   * Faculty of Engineering, Chinese University of Hong Kong, May. 2019 - Aug. 2019, Hong Kong
-  * Topic: Generating Adversarial Example in Text Classification
+  * Topic: [Generating Adversarial Example in Text Classification](https://drive.google.com/file/d/1pUEmVtxT0lAKaiB8K0_digI2iAXnoi3-/view?usp=sharing)
   * Use black-box and white-box strategy to generate adversarial examples to attack state-of-the-art DNN natural language processing model
   * Supervisor: Prof. Michael R. Lyu
   * Award: Best Project Award

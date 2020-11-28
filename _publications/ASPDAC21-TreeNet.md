@@ -3,7 +3,7 @@ title: "TreeNet: Deep Point Cloud Embedding for Routing Tree Construction"
 collection: publications
 permalink: /publication/ASPDAC21-TreeNet
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: Jan. 18–21, 2021.
+date: Jan. 18–21 2021.
 #venue: 'Journal 1'
 #paperurl: 'https://cohenqu.github.io/files/ASPDAC21-TreeNet.pdf'
 #citation: 'Wei Li, Yuxiao Qu, Gengjie Chen, Yuzhe Ma, Bei Yu. “TreeNet: Deep Point Cloud Embedding for Routing Tree Construction.” </i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)</i>. Tokyo, Jan. 18–21, 2021.'
